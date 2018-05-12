@@ -1,5 +1,8 @@
 _repo: A-Woman-s-Journey-Round-the-World--13-From-Vienna-to-Brazil-Chili-Tahiti-China-Hindostan-Pers__11039
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pfeiffer, Ida
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3807
     wikipedia: http://en.wikipedia.org/wiki/Ida_Laura_Pfeiffer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11039#A-Woman-s-Journey-Round-the-World--13-From-Vienna-to-Brazil-Chili-Tahiti-China-Hindostan-Pers_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
